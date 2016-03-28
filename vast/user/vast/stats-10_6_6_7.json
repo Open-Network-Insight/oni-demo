@@ -1,0 +1,1 @@
+{"size": 20, "name": "test threat 6565", "children": [{"size": 15, "name": "Inbound Only", "children": [{"name": "WEB", "size": 10}, {"name": "DC", "size": 3}, {"name": "MAIL", "size": 2}]}, {"size": 0, "name": "Outbound Only", "children": []}, {"size": 5, "name": "two way", "children": [{"name": "WEB", "size": 3}, {"name": "Other", "size": 1}, {"name": "MAIL", "size": 1}]}]}

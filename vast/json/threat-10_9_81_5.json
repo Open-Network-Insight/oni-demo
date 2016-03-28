@@ -1,0 +1,21 @@
+{
+ "name": "10.9.81.5","time":"0406",
+ "children": [
+       {
+        "name": "port 123 scan",
+        "children": [
+         {"name": "AZ MAIL1","impact":3,
+	  "children": [
+	  	{"name":"port 25 scan",
+	  	"children":[	  		
+			 {"name": "100 missed", "impact":1},
+		 	{"name": "24 hit",  "impact":2}
+		 ]
+		 }
+	 ]
+	 },
+         {"name": "Admin Node","impact":3}
+        ]
+      }
+ ]
+}
