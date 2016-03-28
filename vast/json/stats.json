@@ -1,0 +1,83 @@
+{
+ "name": "impact",
+	 "children": [
+	  {
+	   "name": "inbound only",
+		   "children": [
+		    {
+		     "name": "Other",
+			     "children": [
+			      {"name": "Destination Port 123", "size": 250},
+			      {"name": "ICMP Port 0", "size": 0}
+			     ]
+		    },
+		    {
+		     "name": "VPN",
+			     "children": [
+			      {"name": "Destination Port 123", "size": 100},
+			      {"name": "ICMP Port 0", "size": 0}
+			     ]
+		    },
+		    {
+		     "name": "Proxy",
+			     "children": [
+			      {"name": "Destination Port 123", "size": 50},
+			      {"name": "ICMP Port 0", "size": 0}
+			     ]
+		    }
+		   ]
+	  },
+	    {
+	     "name": "two way",
+		   "children": [
+		    {
+		     "name": "Other",
+			     "children": [
+			      {"name": "Destination Port 123", "size": 1},
+			      {"name": "ICMP Port 0", "size": 9}
+			     ]
+		    },
+		    {
+		     "name": "VPN",
+			     "children": [
+			      {"name": "Destination Port 123", "size": 0},
+			      {"name": "ICMP Port 0", "size": 0}
+			     ]
+		    },
+		    {
+		     "name": "Proxy",
+			     "children": [
+			      {"name": "Destination Port 123", "size": 0},
+			      {"name": "ICMP Port 0", "size": 0}
+			     ]
+		    }
+		   ]
+	  },
+	    {
+	     "name": "outbound only",
+		   "children": [
+		    {
+		     "name": "Other",
+			     "children": [
+			      {"name": "Destination Port 123", "size": 0},
+			      {"name": "ICMP Port 0", "size": 2}
+			     ]
+		    },
+		    {
+		     "name": "VPN",
+			     "children": [
+			      {"name": "Destination Port 123", "size": 0},
+			      {"name": "ICMP Port 0", "size": 0}
+			     ]
+		    },
+		    {
+		     "name": "Proxy",
+			     "children": [
+			      {"name": "Destination Port 123", "size": 0},
+			      {"name": "ICMP Port 0", "size": 0}
+			     ]
+		    }
+		   ]
+	  }
+	 ]
+}

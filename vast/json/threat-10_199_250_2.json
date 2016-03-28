@@ -1,0 +1,15 @@
+{
+  "name": "10.199.250.2",
+  "time": "0411",
+  "children": [
+    {
+      "name": "Admin FTP port 21 ",
+      "children": [
+        {
+          "name": "WEB.x 30 hits",
+          "impact": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"sourceips": [
+{ "type": "Feature","properties":{"location":"Singapore","ip":"213.190.153.47","type":0}, "geometry": { "type": "Point", "coordinates": [ 103.8000, 1.3000 ] } }
+,
+{ "type": "Feature","properties":{"location":"Krypt Technologies","ip":"174.139.113.58","type":1}, "geometry": { "type": "Point", "coordinates": [ -117.847280, 33.810330 ] } }
+,
+{ "type": "Feature","properties":{"location":"Krypt Technologies","ip":"174.139.113.58","type":1}, "geometry": { "type": "Point", "coordinates": [ -117.847280, 33.810330 ] } }
+,
+{ "type": "Feature","properties":{"location":"Krypt Technologies","ip":"174.139.113.58","type":1}, "geometry": { "type": "Point", "coordinates": [ -117.847280, 33.810330 ] } }
+,
+{ "type": "Feature","properties":{"location":"Krypt Technologies","ip":"174.139.113.58","type":1}, "geometry": { "type": "Point", "coordinates": [ -117.847280, 33.810330 ] } }
+,
+{ "type": "Feature","properties":{"location":"Krypt Technologies","ip":"174.139.113.58","type":1}, "geometry": { "type": "Point", "coordinates": [ -117.847280, 33.810330 ] } }
+
+]
+,
+"destips": [
+{ "type": "Feature","properties":{"location":"Krypt Technologies","ip":"213.190.153.47","type":0}, "geometry": { "type": "Point", "coordinates": [ -117.847280, 33.810330 ] } }
+,
+{ "type": "Feature","properties":{"location":"Intel Corporation","ip":"134.191.240.106","type":1}, "geometry": { "type": "Point", "coordinates": [-0.125740,51.508530 ] } }
+,
+{ "type": "Feature","properties":{"location":"Intel Corporation","ip":"134.191.236.133","type":1}, "geometry": { "type": "Point", "coordinates": [34.989170,32.815560 ] } }
+,
+{ "type": "Feature","properties":{"location":"Intel Corporation","ip":"143.183.43.136","type":1}, "geometry": { "type": "Point", "coordinates": [-121.176060,38.677960 ] } }
+,
+{ "type": "Feature","properties":{"location":"Intel Corporation","ip":"134.191.219.138","type":2}, "geometry": { "type": "Point", "coordinates": [-0.125740,51.508530 ] } }
+,
+{ "type": "Feature","properties":{"location":"Intel Corporation","ip":"134.191.220.124","type":2}, "geometry": { "type": "Point", "coordinates": [13.463140,48.696680 ] } }
+
+]
+}
+
