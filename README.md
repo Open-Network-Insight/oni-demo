@@ -9,13 +9,13 @@ http://sourceforge.net/projects/winpython/files/latest/download
 
 Install it in the root directory as C:\winpython to avoid any awkwardness in file path references. 
 
-You want to unzip oni-demo.zip into the winpython/notebooks folder 
+You want to unzip oni-demo-win.zip into the winpython/notebooks folder 
 
-Run the shortcut “Ipython Notebook.exe”  in the WinPython folder.
+Run the shortcut "Jupyter Notebook.exe"�  in the WinPython folder.
 
 When you start the notebook server (above), you can access these two links:
 
-http://localhost:8888/files/vast/index_sconnects.html
+http://localhost:8888/files/oni-demo-win/index_sconnects.html
 
-http://localhost:8888/files/vast/storyboard_sconnect.html
+http://localhost:8888/files/oni-demo-win/storyboard_sconnect.html
 
