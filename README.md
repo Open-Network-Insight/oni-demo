@@ -1,21 +1,74 @@
-# oni-demo
-Download a demo version of Open Network Insight, which can be run standalone on a windows laptop using Winpython https://sourceforge.net/projects/winpython/files/latest/download 
+# **Open Network Insight Demo**
+
+ONI-Demo can be downloaded and run standalone on a **Windows Laptop** 
+
+## **Demo SW Requirements**
+
+This demo requires Winpython, which can be downloaded here:
+
+[Winpython Download][1]
+[1]:  https://sourceforge.net/projects/winpython/files/latest/download "Winpython Installer"  
+
+Install Winpython under root directory as **C:\winpython**    
 
 
-[Instructions for downloading and running the demo] 
+## **Downloading Demo**
 
-We use a portable version of python that has all the dependencies and stuff included, you need to download and run this first: 
-http://sourceforge.net/projects/winpython/files/latest/download 
+In order to download Demo code - you can use Download ZIP option from this repository
 
-Install it in the root directory as C:\winpython to avoid any awkwardness in file path references. 
+![Alt][2]
 
-You want to unzip oni-demo-win.zip into the winpython/notebooks folder 
+[2]: docs/download-zip.bmp "Download ZIP File"
 
-Run the shortcut "Jupyter Notebook.exe"ù  in the WinPython folder.
+Unzip the file *oni-demo-win.zip* into **C:\winpython\notebooks** folder
 
-When you start the notebook server (above), you can access these two links:
+## **Running Demo**
 
-http://localhost:8888/files/oni-demo-win/index_sconnects.html
+In order to run ONI demo, start **Jupyter Notebook.exe** that is located under winpython folder
 
-http://localhost:8888/files/oni-demo-win/storyboard_sconnect.html
+A Web browser will be opened in the following path
 
+![Alt][3]
+
+[3]: docs/JupyterStartup.bmp "Jupyter Initial Startup"
+
+### *Opening Suspicious Connects Web Page*
+
+Copy and paste the following link into your browser
+
+    http://localhost:8888/files/oni-demo-win/index_sconnects.html
+
+Index_sconnects page looks similar to the image below
+
+![Alt][4]
+
+[4]: docs/Index_sconnects.bmp "Index Sconnects Web Page"
+
+In the Demo, which contains similar functionality to Open Network Insight User Interface, you can:
+
+  * Select rows in Suspicious Connects Frame
+    * Icons for Reputation Services & Geolocation examples
+  * Move & Select Network View objects
+    * Displaying Chord Diagrams
+  * Display Detail View information (by selecting a Suspicious Connect row)
+  * Use IP Address Filter
+  * Running Edge Investigation notebook
+
+### *Opening Storyboard Web Page*
+
+Copy and paste the following link into your browser
+
+    http://localhost:8888/files/oni-demo-win/storyboard_sconnect.html
+
+Storyboard page looks similar to the image below
+
+![Alt][5]
+
+[5]: docs/Storyboard_sconnect.bmp "Storyboard Web Page" 
+
+In this web page, you can:
+
+* Select in between 3 example events under *Executive Threat Briefing*
+  * Port 123 Scan
+  * Port 80 DoS
+  * Botnet 
