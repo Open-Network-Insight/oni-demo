@@ -9,7 +9,7 @@ This demo requires Winpython, which can be downloaded here:
 [Winpython Download][1]
 [1]:  https://sourceforge.net/projects/winpython/files/latest/download "Winpython Installer"  
 
-Note: Install Winpython under root directory as **C:\winpython**    
+Install Winpython under root directory as **C:\winpython**    
 
 
 ## **Downloading Demo**
