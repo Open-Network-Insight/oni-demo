@@ -1,0 +1,5 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	08:57:21	172.31.138.144	f12peewfs01n1.f12prod.mfg.intel.com	Technology/Internet	Not Found	OPTIONS	Microsoft-WebDAV-MiniRedir/6.1.7601	-	-	80	10.7.210.157	865	207	f12peewfs01n1.f12prod.mfg.intel.com/F12_RTA
+2016-07-08	09:17:11	172.31.138.144	f12peewfs01n1.f12prod.mfg.intel.com	Technology/Internet	Not Found	OPTIONS	Microsoft-WebDAV-MiniRedir/6.1.7601	-	-	80	10.7.210.157	865	426	f12peewfs01n1.f12prod.mfg.intel.com/F12_RTA
+2016-07-08	15:50:06	172.31.138.144	f12peewfs01n1.f12prod.mfg.intel.com	Technology/Internet	Not Found	OPTIONS	Microsoft-WebDAV-MiniRedir/6.1.7601	-	-	80	10.7.210.157	865	267	f12peewfs01n1.f12prod.mfg.intel.com/F12_RTA
+2016-07-08	02:17:06	172.31.138.144	f12peewfs01n1.f12prod.mfg.intel.com	Technology/Internet	Not Found	OPTIONS	Microsoft-WebDAV-MiniRedir/6.1.7601	-	-	80	10.7.210.157	865	574	f12peewfs01n1.f12prod.mfg.intel.com/F12_RTA

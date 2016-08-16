@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	18:38:19	10.24.140.11	sphotos.xx.fbcdn.net	Social Networking;Content Servers	Bad Gateway	HEAD	Mozilla/4.0 (compatible ; MSIE 9.10.9200.17183 ; Microsoft Windows 7 Professional Service Pack 1 ; Placeware RPC 1.0)	text/html;%20charset=utf-8	-	80	10.7.210.157	214	322	sphotos.xx.fbcdn.net/hphotos-snc6/230857_10150112469972706_265317_n.jpg

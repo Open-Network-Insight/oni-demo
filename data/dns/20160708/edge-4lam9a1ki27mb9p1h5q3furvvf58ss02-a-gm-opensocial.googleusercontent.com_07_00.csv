@@ -1,0 +1,8 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 07:43:06.012975000 UTC","322","172.16.0.196","10.0.3.149","4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:19:07.894906000 UTC","318","172.16.0.183","10.0.3.243","4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:29:00.530359000 UTC","318","172.16.0.183","10.0.3.203","4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com","Internet (IN)","A","NoError","53.46.49.57"
+"Jul  8 2016 07:42:20.436043000 UTC","318","172.16.0.168","10.0.4.23","4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:27:41.145120000 UTC","318","172.16.0.197","10.0.3.190","4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com","Internet (IN)","A","NoError","53.46.53.51"
+"Jul  8 2016 07:12:07.970448000 UTC","314","172.16.0.184","10.0.4.43","4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com","Internet (IN)","A","NoError","53.46.50.51"
+"Jul  8 2016 07:57:48.058333000 UTC","314","172.16.0.172","10.0.4.73","4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com","Internet (IN)","A","NoError","50.55.46.50"

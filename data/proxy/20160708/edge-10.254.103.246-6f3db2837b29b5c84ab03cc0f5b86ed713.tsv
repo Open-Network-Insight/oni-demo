@@ -1,0 +1,3 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	13:16:21	10.254.103.246	162.250.2.5	Remote Access Tools	Bad Request	POST	Mozilla/4.0 (compatible; MSIE 6.0; DynGate)	text/html	-	80	10.7.210.157	297	369	162.250.2.5/dout.aspx?s=14496307&p=10000001&client=DynGate
+2016-07-08	13:16:23	10.254.103.246	162.250.2.5	Remote Access Tools	Bad Request	POST	Mozilla/4.0 (compatible; MSIE 6.0; DynGate)	text/html	-	80	10.7.210.157	297	369	162.250.2.5/dout.aspx?s=14496307&p=10000001&client=DynGate

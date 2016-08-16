@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	07:07:57	10.24.236.37	ndtvod.bc-s.cdn.bitgravity.com	Content Servers	OK	POST	Shockwave Flash	application/x-fcs	http://www.ndtv.com/video/player/news/chetan-bhagat-quizzes-arun-jaitley-on-budget-2015/358312?pfrom=nri_videowidget_cat_4	80	10.7.210.157	245	509	ndtvod.bc-s.cdn.bitgravity.com/idle/1849064578/51

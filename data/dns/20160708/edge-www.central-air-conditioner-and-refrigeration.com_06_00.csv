@@ -1,0 +1,3 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 06:43:08.178854000 UTC","253","172.16.0.199","10.0.3.191","www.central-air-conditioner-and-refrigeration.com","Internet (IN)","A","NoError","53.46.52.50"
+"Jul  8 2016 06:28:34.345742000 UTC","259","172.16.0.185","10.0.3.224","www.central-air-conditioner-and-refrigeration.com","Internet (IN)","A","NoError","49.52.46.49"

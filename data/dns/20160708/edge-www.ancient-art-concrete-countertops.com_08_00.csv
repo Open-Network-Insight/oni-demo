@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 08:36:57.683623000 UTC","230","172.16.0.165","10.0.3.194","www.ancient-art-concrete-countertops.com","Internet (IN)","A","NoError","53.46.50.51"
+"Jul  8 2016 08:52:07.179351000 UTC","226","172.16.0.196","10.0.4.33","www.ancient-art-concrete-countertops.com","Internet (IN)","A","NoError","49.46.51.57"
+"Jul  8 2016 08:18:00.130045000 UTC","228","172.16.0.177","10.0.3.140","www.ancient-art-concrete-countertops.com","Internet (IN)","A","NoError","50.55.46.50"
+"Jul  8 2016 08:08:39.146243000 UTC","232","172.16.0.174","10.0.4.74","www.ancient-art-concrete-countertops.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:22:39.584428000 UTC","224","172.16.0.165","10.0.3.134","www.ancient-art-concrete-countertops.com","Internet (IN)","A","NoError","49.46.51.57"

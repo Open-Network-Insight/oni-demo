@@ -1,0 +1,5 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 07:39:22.947030000 UTC","231","172.16.0.191","10.0.3.207","jfs1b-hs21-amm-ar42b.jfs1b-hs21-amm-ar42b","Internet (IN)","A","NoError","53.46.50.49"
+"Jul  8 2016 07:10:45.015205000 UTC","233","172.16.0.196","10.0.3.149","jfs1b-hs21-amm-ar42b.jfs1b-hs21-amm-ar42b","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:15:36.487433000 UTC","233","172.16.0.181","10.0.3.162","jfs1b-hs21-amm-ar42b.jfs1b-hs21-amm-ar42b","Internet (IN)","A","NoError","53.46.50.50"
+"Jul  8 2016 07:25:35.590972000 UTC","231","172.16.0.173","10.0.4.2","jfs1b-hs21-amm-ar42b.jfs1b-hs21-amm-ar42b","Internet (IN)","A","NoError","53.46.49.57"

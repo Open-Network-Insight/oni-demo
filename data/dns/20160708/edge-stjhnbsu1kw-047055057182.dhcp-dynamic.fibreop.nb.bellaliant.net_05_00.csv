@@ -1,0 +1,5 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 05:46:51.825803000 UTC","301","172.16.0.197","10.0.3.230","stjhnbsu1kw-047055057182.dhcp-dynamic.fibreop.nb.bellaliant.net","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 05:32:54.003213000 UTC","297","172.16.0.168","10.0.4.23","stjhnbsu1kw-047055057182.dhcp-dynamic.fibreop.nb.bellaliant.net","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 05:18:07.645310000 UTC","297","172.16.0.172","10.0.3.181","stjhnbsu1kw-047055057182.dhcp-dynamic.fibreop.nb.bellaliant.net","Internet (IN)","A","NoError","50.55.46.51"
+"Jul  8 2016 05:33:39.788216000 UTC","293","172.16.0.180","10.0.4.13","stjhnbsu1kw-047055057182.dhcp-dynamic.fibreop.nb.bellaliant.net","Internet (IN)","A","NoError","50.55.46.48"

@@ -1,0 +1,5 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 03:10:13.634902000 UTC","230","172.16.0.202","10.0.3.140","your-dns-needs-immediate-attention.gmail","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 03:54:23.222360000 UTC","232","172.16.0.197","10.0.3.190","your-dns-needs-immediate-attention.gmail","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 03:55:13.600648000 UTC","226","172.16.0.166","10.0.4.50","your-dns-needs-immediate-attention.gmail","Internet (IN)","A","NoError","49.52.46.57"
+"Jul  8 2016 03:11:31.798295000 UTC","226","172.16.0.168","10.0.4.63","your-dns-needs-immediate-attention.gmail","Internet (IN)","A","NoError","49.46.53.53"

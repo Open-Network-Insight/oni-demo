@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 08:49:34.164885000 UTC","231","172.16.0.188","10.0.4.17","ultimate-internet-marketing-solutions.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:06:02.589342000 UTC","229","172.16.0.169","10.0.3.236","ultimate-internet-marketing-solutions.com","Internet (IN)","A","NoError","50.46.49.56"
+"Jul  8 2016 08:58:13.907974000 UTC","233","172.16.0.200","10.0.3.179","ultimate-internet-marketing-solutions.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:48:36.106489000 UTC","235","172.16.0.190","10.0.3.174","ultimate-internet-marketing-solutions.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:35:09.589485000 UTC","229","172.16.0.177","10.0.3.200","ultimate-internet-marketing-solutions.com","Internet (IN)","A","NoError","53.46.49.57"

@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	04:57:20	10.252.135.103	ocsp.intel.com	Technology/Internet	OK	POST	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0	application/ocsp-response	-	80	10.7.210.157	2027	456	ocsp.intel.com

@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 08:51:45.013098000 UTC","229","172.16.0.169","10.0.4.0","www.southernlivinginspiredcommunities.com","Internet (IN)","A","NoError","50.55.46.50"
+"Jul  8 2016 08:43:18.445745000 UTC","235","172.16.0.182","10.0.3.186","www.southernlivinginspiredcommunities.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:48:35.535792000 UTC","233","172.16.0.181","10.0.3.222","www.southernlivinginspiredcommunities.com","Internet (IN)","A","NoError","50.46.49.56"
+"Jul  8 2016 08:58:00.870681000 UTC","235","172.16.0.186","10.0.4.44","www.southernlivinginspiredcommunities.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:08:26.547766000 UTC","233","172.16.0.174","10.0.3.182","www.southernlivinginspiredcommunities.com","Internet (IN)","A","NoError","49.52.46.49"

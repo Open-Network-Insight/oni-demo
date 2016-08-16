@@ -1,0 +1,5 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 08:51:14.369173000 UTC","244","172.16.0.182","10.0.4.54","www.wildsound-filmmaking-feedback-events.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:07:47.068738000 UTC","242","172.16.0.167","10.0.3.175","www.wildsound-filmmaking-feedback-events.com","Internet (IN)","A","NoError","49.52.46.57"
+"Jul  8 2016 08:55:59.631739000 UTC","240","172.16.0.200","10.0.3.151","www.wildsound-filmmaking-feedback-events.com","Internet (IN)","A","NoError","53.46.49.50"
+"Jul  8 2016 08:59:45.860747000 UTC","236","172.16.0.168","10.0.4.51","www.wildsound-filmmaking-feedback-events.com","Internet (IN)","A","NoError","49.46.53.51"

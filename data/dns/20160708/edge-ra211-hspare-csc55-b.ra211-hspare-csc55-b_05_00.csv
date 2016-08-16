@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 05:10:58.266284000 UTC","229","172.16.0.169","10.0.3.136","ra211-hspare-csc55-b.ra211-hspare-csc55-b","Internet (IN)","A","NoError","50.46.56.57"
+"Jul  8 2016 05:15:40.089594000 UTC","229","172.16.0.177","10.0.3.160","ra211-hspare-csc55-b.ra211-hspare-csc55-b","Internet (IN)","A","NoError","50.46.53.48"
+"Jul  8 2016 05:48:14.478433000 UTC","235","172.16.0.176","10.0.4.75","ra211-hspare-csc55-b.ra211-hspare-csc55-b","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 05:04:34.595182000 UTC","229","172.16.0.197","10.0.3.150","ra211-hspare-csc55-b.ra211-hspare-csc55-b","Internet (IN)","A","NoError","49.46.53.52"
+"Jul  8 2016 05:05:59.037634000 UTC","233","172.16.0.173","10.0.3.218","ra211-hspare-csc55-b.ra211-hspare-csc55-b","Internet (IN)","A","NoError","50.46.49.55"

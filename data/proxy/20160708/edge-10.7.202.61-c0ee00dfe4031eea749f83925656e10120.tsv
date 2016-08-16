@@ -1,0 +1,5 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	05:50:24	10.7.202.61	tools.google.com	Technology/Internet	OK	CONNECT	-	-	-	443	10.7.210.157	39	69	tools.google.com
+2016-07-08	06:38:24	10.7.202.61	tools.google.com	Technology/Internet	OK	CONNECT	-	-	-	443	10.7.210.157	39	69	tools.google.com
+2016-07-08	20:50:05	10.7.202.61	tools.google.com	Technology/Internet	OK	CONNECT	-	-	-	443	10.7.210.157	39	69	tools.google.com
+2016-07-08	15:50:40	10.7.202.61	tools.google.com	Technology/Internet	OK	CONNECT	-	-	-	443	10.7.210.157	39	69	tools.google.com

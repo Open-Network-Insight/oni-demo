@@ -1,0 +1,8 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 06:57:34.506050000 UTC","226","172.16.0.198","10.0.4.6","www.wallstreetinsightsandindictments.com","Internet (IN)","A","NoError","49.46.53.50"
+"Jul  8 2016 06:46:26.949264000 UTC","230","172.16.0.179","10.0.3.161","www.wallstreetinsightsandindictments.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 06:56:07.726961000 UTC","232","172.16.0.184","10.0.3.187","www.wallstreetinsightsandindictments.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 06:42:49.774072000 UTC","232","172.16.0.191","10.0.3.187","www.wallstreetinsightsandindictments.com","Internet (IN)","A","NoError","50.55.46.50"
+"Jul  8 2016 06:31:38.895195000 UTC","232","172.16.0.185","10.0.3.244","www.wallstreetinsightsandindictments.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 06:37:58.366100000 UTC","228","172.16.0.179","10.0.3.161","www.wallstreetinsightsandindictments.com","Internet (IN)","A","NoError","53.46.49.48"
+"Jul  8 2016 06:52:26.927134000 UTC","230","172.16.0.186","10.0.4.56","www.wallstreetinsightsandindictments.com","Internet (IN)","A","NoError","49.52.46.49"

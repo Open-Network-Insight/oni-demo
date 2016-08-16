@@ -1,0 +1,7 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 05:18:59.667406000 UTC","233","172.16.0.201","10.0.3.232","87-59-200-143-dynamic.dk.customer.tdc.net","Internet (IN)","A","NoError","53.46.49.53"
+"Jul  8 2016 05:05:34.907623000 UTC","233","172.16.0.174","10.0.3.182","87-59-200-143-dynamic.dk.customer.tdc.net","Internet (IN)","A","NoError","50.46.49.56"
+"Jul  8 2016 05:03:42.704701000 UTC","229","172.16.0.164","10.0.4.49","87-59-200-143-dynamic.dk.customer.tdc.net","Internet (IN)","A","NoError","53.46.53.55"
+"Jul  8 2016 05:29:29.636189000 UTC","233","172.16.0.171","10.0.4.1","87-59-200-143-dynamic.dk.customer.tdc.net","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 05:42:37.774188000 UTC","229","172.16.0.170","10.0.4.24","87-59-200-143-dynamic.dk.customer.tdc.net","Internet (IN)","A","NoError","53.46.49.50"
+"Jul  8 2016 05:19:57.301055000 UTC","233","172.16.0.202","10.0.3.140","87-59-200-143-dynamic.dk.customer.tdc.net","Internet (IN)","A","NoError","49.52.46.49"

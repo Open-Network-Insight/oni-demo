@@ -1,0 +1,7 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 08:35:32.077239000 UTC","228","172.16.0.175","10.0.3.179","www.wittelsbacher-jagdhaus-wartenberg.de","Internet (IN)","A","NoError","49.46.50.51"
+"Jul  8 2016 08:21:18.203830000 UTC","230","172.16.0.173","10.0.3.218","www.wittelsbacher-jagdhaus-wartenberg.de","Internet (IN)","A","NoError","53.46.49.55"
+"Jul  8 2016 08:09:52.822682000 UTC","230","172.16.0.169","10.0.3.236","www.wittelsbacher-jagdhaus-wartenberg.de","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:06:45.851060000 UTC","232","172.16.0.178","10.0.3.144","www.wittelsbacher-jagdhaus-wartenberg.de","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:45:05.677567000 UTC","232","172.16.0.188","10.0.3.173","www.wittelsbacher-jagdhaus-wartenberg.de","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:24:45.769014000 UTC","230","172.16.0.189","10.0.3.246","www.wittelsbacher-jagdhaus-wartenberg.de","Internet (IN)","A","NoError","49.52.46.49"

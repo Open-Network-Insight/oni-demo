@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	16:14:09	10.254.79.109	www.rockcreekcountryclub.com	Sports/Recreation	See Other	POST	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)	text/html;%20charset=utf-8	http://www.rockcreekcountryclub.com/member-login	80	10.7.210.157	602	1124	www.rockcreekcountryclub.com/component/comprofiler/login

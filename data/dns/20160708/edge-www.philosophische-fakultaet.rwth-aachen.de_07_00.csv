@@ -1,0 +1,4 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 07:29:38.348408000 UTC","239","172.16.0.187","10.0.3.245","www.philosophische-fakultaet.rwth-aachen.de","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:55:26.266747000 UTC","233","172.16.0.174","10.0.3.182","www.philosophische-fakultaet.rwth-aachen.de","Internet (IN)","A","NoError","53.46.55.56"
+"Jul  8 2016 07:26:17.519019000 UTC","239","172.16.0.163","10.0.3.153","www.philosophische-fakultaet.rwth-aachen.de","Internet (IN)","A","NoError","49.52.46.49"

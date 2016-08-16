@@ -1,0 +1,8 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 03:41:20.489040000 UTC","233","172.16.0.176","10.0.3.183","volkswagen-commercial-vehicles-carnet.com","Internet (IN)","A","NoError","50.52.46.50"
+"Jul  8 2016 03:39:55.896490000 UTC","233","172.16.0.201","10.0.3.172","volkswagen-commercial-vehicles-carnet.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 03:12:13.716714000 UTC","231","172.16.0.168","10.0.4.63","volkswagen-commercial-vehicles-carnet.com","Internet (IN)","A","NoError","53.46.49.48"
+"Jul  8 2016 03:24:56.136530000 UTC","231","172.16.0.195","10.0.3.229","volkswagen-commercial-vehicles-carnet.com","Internet (IN)","A","NoError","50.46.53.48"
+"Jul  8 2016 03:11:03.945550000 UTC","233","172.16.0.193","10.0.3.248","volkswagen-commercial-vehicles-carnet.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 03:54:51.863606000 UTC","231","172.16.0.182","10.0.4.14","volkswagen-commercial-vehicles-carnet.com","Internet (IN)","A","NoError","53.46.50.50"
+"Jul  8 2016 03:59:50.637631000 UTC","229","172.16.0.190","10.0.4.18","volkswagen-commercial-vehicles-carnet.com","Internet (IN)","A","NoError","49.46.51.57"

@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 03:08:40.376334000 UTC","233","172.16.0.167","10.0.3.155","www.cloudbusinesstransformationcenter.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 03:38:11.427016000 UTC","233","172.16.0.176","10.0.4.39","www.cloudbusinesstransformationcenter.com","Internet (IN)","A","NoError","53.46.50.51"
+"Jul  8 2016 03:13:20.679452000 UTC","233","172.16.0.189","10.0.3.146","www.cloudbusinesstransformationcenter.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 03:46:48.914691000 UTC","233","172.16.0.171","10.0.3.237","www.cloudbusinesstransformationcenter.com","Internet (IN)","A","NoError","53.46.50.51"
+"Jul  8 2016 03:27:16.056473000 UTC","231","172.16.0.164","10.0.4.9","www.cloudbusinesstransformationcenter.com","Internet (IN)","A","NoError","49.46.52.54"

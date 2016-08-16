@@ -1,0 +1,2 @@
+tstart	srcip	dstip	sport	dport	proto	flags	tos	bytes	pkts	input	output	rip
+2016-07-08 07:41:03	172.10.1.110	10.199.250.2	2117	47389	TCP	......	0	764	14	2	1	10.1.1.1

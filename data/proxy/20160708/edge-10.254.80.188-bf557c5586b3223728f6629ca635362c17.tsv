@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	17:50:50	10.254.80.188	moss.amr.ith.intel.com	Technology/Internet	Not Found	POST	Microsoft Office Outlook 2010 (14.0.7143) Windows NT 6.1	-	-	80	10.7.210.157	852	1574	moss.amr.ith.intel.com/sites/SNC/R2S/WebMBO/_vti_bin/lists.asmx

@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	14:06:17	10.2.20.32	ndtvod.bc-s.cdn.bitgravity.com	Content Servers	OK	POST	Shockwave Flash	application/x-fcs	http://www.ndtv.com/video/player/news/i-take-criticism-positively-says-pm-modi-to-parliament/358154?pfrom=nri_videowidget_cat_4	443	10.7.210.157	245	524	ndtvod.bc-s.cdn.bitgravity.com/idle/2008968993/1754

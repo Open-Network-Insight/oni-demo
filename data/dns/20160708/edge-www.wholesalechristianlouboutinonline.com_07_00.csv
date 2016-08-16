@@ -1,0 +1,7 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 07:12:51.193974000 UTC","233","172.16.0.183","10.0.3.203","www.wholesalechristianlouboutinonline.com","Internet (IN)","A","NoError","50.55.46.49"
+"Jul  8 2016 07:51:54.301552000 UTC","233","172.16.0.184","10.0.4.15","www.wholesalechristianlouboutinonline.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:55:36.425180000 UTC","233","172.16.0.190","10.0.3.134","www.wholesalechristianlouboutinonline.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:21:27.746766000 UTC","233","172.16.0.195","10.0.3.169","www.wholesalechristianlouboutinonline.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:11:19.021685000 UTC","233","172.16.0.186","10.0.3.188","www.wholesalechristianlouboutinonline.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:26:36.437295000 UTC","233","172.16.0.197","10.0.3.170","www.wholesalechristianlouboutinonline.com","Internet (IN)","A","NoError","53.46.50.48"

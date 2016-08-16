@@ -1,0 +1,2 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 09:02:26.853167000 UTC","249","172.16.0.201","10.0.3.252","customer.ihre-magenverkleinerung-zum-trinken.co","Internet (IN)","A","NoError","49.46.53.50"

@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 07:24:07.853811000 UTC","235","172.16.0.174","10.0.4.26","www.cheap-hotels-london-city-centre.co.uk","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:12:03.994835000 UTC","231","172.16.0.198","10.0.4.6","www.cheap-hotels-london-city-centre.co.uk","Internet (IN)","A","NoError","49.46.53.53"
+"Jul  8 2016 07:42:19.139143000 UTC","235","172.16.0.173","10.0.3.178","www.cheap-hotels-london-city-centre.co.uk","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:57:45.250940000 UTC","233","172.16.0.191","10.0.3.167","www.cheap-hotels-london-city-centre.co.uk","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:27:38.689899000 UTC","227","172.16.0.192","10.0.4.31","www.cheap-hotels-london-city-centre.co.uk","Internet (IN)","A","NoError","50.46.49.55"

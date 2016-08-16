@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 08:34:46.130985000 UTC","233","172.16.0.171","10.0.3.197","www.transformingnetworkinfrastructure.com","Internet (IN)","A","NoError","50.46.49.56"
+"Jul  8 2016 08:50:45.712572000 UTC","229","172.16.0.200","10.0.3.139","www.transformingnetworkinfrastructure.com","Internet (IN)","A","NoError","50.46.53.48"
+"Jul  8 2016 08:39:34.478270000 UTC","229","172.16.0.173","10.0.3.238","www.transformingnetworkinfrastructure.com","Internet (IN)","A","NoError","49.46.51.57"
+"Jul  8 2016 08:45:44.879902000 UTC","231","172.16.0.186","10.0.4.44","www.transformingnetworkinfrastructure.com","Internet (IN)","A","NoError","50.55.46.50"
+"Jul  8 2016 08:10:32.065036000 UTC","233","172.16.0.195","10.0.3.189","www.transformingnetworkinfrastructure.com","Internet (IN)","A","NoError","49.52.46.49"

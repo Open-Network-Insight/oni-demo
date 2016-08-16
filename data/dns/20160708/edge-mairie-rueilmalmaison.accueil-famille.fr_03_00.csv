@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 03:33:13.708958000 UTC","228","172.16.0.183","10.0.3.143","mairie-rueilmalmaison.accueil-famille.fr","Internet (IN)","A","NoError","53.46.52.49"
+"Jul  8 2016 03:52:46.686934000 UTC","232","172.16.0.174","10.0.3.182","mairie-rueilmalmaison.accueil-famille.fr","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 03:09:05.672758000 UTC","230","172.16.0.184","10.0.4.15","mairie-rueilmalmaison.accueil-famille.fr","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 03:23:38.199600000 UTC","232","172.16.0.202","10.0.3.180","mairie-rueilmalmaison.accueil-famille.fr","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 03:37:08.465200000 UTC","230","172.16.0.196","10.0.4.33","mairie-rueilmalmaison.accueil-famille.fr","Internet (IN)","A","NoError","49.52.46.49"

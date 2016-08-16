@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	16:11:41	10.32.115.20	mysites.amr.ith.intel.com	Technology/Internet	Not Found	POST	Microsoft Office Outlook 2010 (14.0.7140) Windows NT 6.1	-	-	80	10.7.210.157	855	852	mysites.amr.ith.intel.com/personal/arbonnev/_vti_bin/lists.asmx
