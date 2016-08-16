@@ -1,1 +1,0 @@
-{"size": 71, "name": "Test Vast Data threat", "children": [{"size": 0, "name": "Inbound Only", "children": []}, {"size": 0, "name": "Outbound Only", "children": []}, {"size": 71, "name": "two way", "children": [{"name": "DMZ", "size": 71}]}]}
