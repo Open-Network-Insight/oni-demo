@@ -1,0 +1,88 @@
+body.oni.oni_easy_mode {
+    background-color: white !important;
+}
+
+.oni #header,
+.oni #site,
+.oni #pager
+{
+  position: absolute;
+  top: -10000px;
+  left: -10000px;
+}
+
+.oni.oni_easy_mode .widget-area
+{
+    margin-top: 20px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}
+
+.oni.oni_easy_mode .widget-area > .prompt
+{
+  display: none;
+}
+
+.oni.oni_easy_mode .widget-area > .widget-subarea > .widget-box
+{
+  position: relative;
+  margin: 0 auto;
+}
+
+.oni.oni_ninja_mode #header,
+.oni.oni_ninja_mode #site,
+.oni.oni_ninja_mode #pager
+{
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+.oni #oni_easy_mode_loader
+{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.oni.oni_easy_mode #oni_easy_mode_loader
+{
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  margin-top: 0px;
+}
+
+.oni.oni_ninja_mode #oni_easy_mode_loader
+{
+  display: none;
+}
+
+.oni #oni_easy_mode_loader_spinner
+{
+  display: inline-block;
+  width: 16px;
+  height: 11px;
+  margin-left: 5px;
+  background-image: url(./ajax-loader.gif);
+}
+
+body[data-notebook-name*="Threat"] .widget-area .widget-box div table{
+  margin-top:10px;
+}
+
+
+body[data-notebook-name*="Threat"] .widget-area .widget-box div table td, th{
+  border: solid 1px #CCC;
+  padding: 0 6px;
+  background-color: #FFF;
+}
+
+
+body[data-notebook-name*="Threat"] .widget-area .widget-box div table th{
+  background-color: #0071C5;
+  color: #FFF;
+  text-align: center;
+}
+ 
