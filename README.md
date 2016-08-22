@@ -6,6 +6,14 @@ For organizations with dynamic data centers and networks, Open Network Insight i
  
 ONI-Demo is a standalone installation of the ONI UI
 
+# **Running Demo on Docker**
+
+Install Docker for your platform
+Run the container: `docker run -it -p 8889:8889 opennetworkinsight/oni-demo`
+visit http://localhost:8889/files/ui/flow/suspicious.html#date=2016-07-08 in your browser to get started
+
+For the full instructions visit the [opennetworkinsight](https://hub.docker.com/r/opennetworkinsight/oni-demo/) on Docker hub
+
 ## **Demo SW Requirements**
 
 Pre-requisites:
