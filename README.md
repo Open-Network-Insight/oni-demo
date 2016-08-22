@@ -28,9 +28,12 @@ installation:
 
  `npm run build-all`
 
+## **Start the Demo**
+
 bash ./runIpython.sh
 
-Windows:
+## **Windows specific**
+
 This demo requires Winpython, which can be downloaded here:
 
 [Winpython Download][1]
@@ -43,7 +46,7 @@ Install Winpython under root directory as **C:\winpython**
 
 In order to download Demo code - you can use Download ZIP option from this repository
 
-Unzip the file *oni-demo-win.zip* into **C:\winpython\notebooks** folder
+Unzip the file *oni-demo-1.1.zip* into **C:\winpython\notebooks** folder
 
 ## **Running Demo**
 
