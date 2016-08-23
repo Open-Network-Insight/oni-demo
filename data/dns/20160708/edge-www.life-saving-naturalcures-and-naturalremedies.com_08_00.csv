@@ -1,0 +1,2 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 08:22:57.013941000 UTC","266","172.16.0.192","10.0.4.31","www.life-saving-naturalcures-and-naturalremedies.com","Internet (IN)","A","NoError","49.52.46.49"

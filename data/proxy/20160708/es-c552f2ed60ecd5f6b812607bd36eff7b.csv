@@ -1,0 +1,3 @@
+p_time	clientip	username	duration	fulluri	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes
+18:12:39	10.250.45.90	-	10	firewall.happytohell.com:80http://firewall.happytohell.com:80/index.htm?n763t4OPm*rs6fXq7fXp7uj16e-r&Length=0	none	200	GET	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)	application/x-gtar	-	80	10.7.210.157	520	300
+19:17:55	10.250.48.10	-	10	firewall.happytohell.com:80http://firewall.happytohell.com:80/index.htm?n763t4OPm*rs6fXq7fXp7uj16e-r&Length=0	none	200	GET	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)	application/x-gtar	-	80	10.7.210.157	520	300

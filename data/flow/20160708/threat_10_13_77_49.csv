@@ -1,0 +1,7 @@
+title,summary
+10.13.77.49, Port 80 Denial Of Service. In a denial-of-service (DoS) attack an attacker attempts to prevent legitimate users from accessing information or services. 
+When you type a URL for a particular website into your browser, you are sending a request to that site's computer server to view the page.
+
+The server can only process a certain number of requests at once, so if an attacker overloads the server with requests, it can't process your request. This is a 'denial of service' because you can't access that site.
+
+The most common and obvious type of DoS attack occurs when an attacker 'floods' a network with information.

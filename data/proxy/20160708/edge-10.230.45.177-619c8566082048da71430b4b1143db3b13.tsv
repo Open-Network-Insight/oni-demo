@@ -1,0 +1,11 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	02:26:02	10.230.45.177	pippin01.asdc.lab	none	Not Found	POST	Windows-Update-Agent/7.9.9600.17489 Client-Protocol/1.21	-	-	8530	10.7.210.157	847	813	pippin01.asdc.lab/SimpleAuthWebService/SimpleAuth.asmx
+2016-07-08	21:06:19	10.230.45.177	pippin01.asdc.lab	none	Not Found	POST	Windows-Update-Agent/7.9.9600.17489 Client-Protocol/1.21	-	-	8530	10.7.210.157	847	813	pippin01.asdc.lab/SimpleAuthWebService/SimpleAuth.asmx
+2016-07-08	11:16:31	10.230.45.177	pippin01.asdc.lab	none	Not Found	POST	Windows-Update-Agent/7.9.9600.17489 Client-Protocol/1.21	-	-	8530	10.7.210.157	847	813	pippin01.asdc.lab/SimpleAuthWebService/SimpleAuth.asmx
+2016-07-08	01:51:41	10.230.45.177	pippin01.asdc.lab	none	Not Found	POST	Windows-Update-Agent/7.9.9600.17489 Client-Protocol/1.21	-	-	8530	10.7.210.157	847	813	pippin01.asdc.lab/SimpleAuthWebService/SimpleAuth.asmx
+2016-07-08	07:37:54	10.230.45.177	pippin01.asdc.lab	none	Not Found	POST	Windows-Update-Agent/7.9.9600.17489 Client-Protocol/1.21	-	-	8530	10.7.210.157	847	813	pippin01.asdc.lab/SimpleAuthWebService/SimpleAuth.asmx
+2016-07-08	16:48:57	10.230.45.177	pippin01.asdc.lab	none	Not Found	POST	Windows-Update-Agent/7.9.9600.17489 Client-Protocol/1.21	-	-	8530	10.7.210.157	847	813	pippin01.asdc.lab/SimpleAuthWebService/SimpleAuth.asmx
+2016-07-08	13:03:35	10.230.45.177	pippin01.asdc.lab	none	Not Found	POST	Windows-Update-Agent/7.9.9600.17489 Client-Protocol/1.21	-	-	8530	10.7.210.157	847	813	pippin01.asdc.lab/SimpleAuthWebService/SimpleAuth.asmx
+2016-07-08	08:19:37	10.230.45.177	pippin01.asdc.lab	none	Not Found	POST	Windows-Update-Agent/7.9.9600.17489 Client-Protocol/1.21	-	-	8530	10.7.210.157	847	813	pippin01.asdc.lab/SimpleAuthWebService/SimpleAuth.asmx
+2016-07-08	07:21:52	10.230.45.177	pippin01.asdc.lab	none	Not Found	POST	Windows-Update-Agent/7.9.9600.17489 Client-Protocol/1.21	-	-	8530	10.7.210.157	847	813	pippin01.asdc.lab/SimpleAuthWebService/SimpleAuth.asmx
+2016-07-08	23:22:05	10.230.45.177	pippin01.asdc.lab	none	Not Found	POST	Windows-Update-Agent/7.9.9600.17489 Client-Protocol/1.21	-	-	8530	10.7.210.157	847	813	pippin01.asdc.lab/SimpleAuthWebService/SimpleAuth.asmx

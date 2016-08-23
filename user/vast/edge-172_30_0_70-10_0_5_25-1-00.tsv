@@ -1,2 +1,0 @@
-parseddate	pcode	pcode	srcip	dstip	sport	dport	sfirst	dfirst	stotal	dtotal	spkts	dpkts
-2016-03-23 1:00:00	1	ICMP	172.30.0.70	10.0.5.25	0	3840	65	67	1	1	21212	1

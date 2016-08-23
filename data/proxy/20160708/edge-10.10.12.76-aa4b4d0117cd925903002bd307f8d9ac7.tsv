@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	07:13:09	10.10.12.76	4.27.8.137	Audio/Video Clips	OK	POST	Shockwave Flash	application/x-fcs	http://xfinitytv.comcast.net/watch/The-Tonight-Show-Starring-Jimmy-Fallon/4759351141290148112/403451971736/Christina-Aguilera%2C-Jeff-Probst%2C-Kid-Rock/videos	443	10.7.210.157	297	511	4.27.8.137/open/1

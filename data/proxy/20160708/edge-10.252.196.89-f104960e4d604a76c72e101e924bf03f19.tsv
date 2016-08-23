@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	19:58:37	10.252.196.89	www.tensilica.com	Technology/Internet	Not Found	HEAD	Jakarta Commons-HttpClient/3.1	text/html;%20charset=iso-8859-1	-	80	10.7.210.157	227	210	www.tensilica.com/xplorer/update/xx_504/compositeContent.jar

@@ -1,0 +1,8 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 08:15:40.736224000 UTC","235","172.16.0.176","10.0.4.75","www.coloring-pages-book-for-kids-boys.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:05:54.757078000 UTC","229","172.16.0.167","10.0.3.215","www.coloring-pages-book-for-kids-boys.com","Internet (IN)","A","NoError","53.46.50.51"
+"Jul  8 2016 08:14:17.128930000 UTC","233","172.16.0.176","10.0.3.171","www.coloring-pages-book-for-kids-boys.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:28:58.573659000 UTC","233","172.16.0.167","10.0.3.155","www.coloring-pages-book-for-kids-boys.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:38:07.588023000 UTC","233","172.16.0.190","10.0.3.162","www.coloring-pages-book-for-kids-boys.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:49:30.413846000 UTC","231","172.16.0.167","10.0.3.175","www.coloring-pages-book-for-kids-boys.com","Internet (IN)","A","NoError","50.52.46.49"
+"Jul  8 2016 08:35:05.893818000 UTC","231","172.16.0.164","10.0.3.153","www.coloring-pages-book-for-kids-boys.com","Internet (IN)","A","NoError","50.46.49.56"

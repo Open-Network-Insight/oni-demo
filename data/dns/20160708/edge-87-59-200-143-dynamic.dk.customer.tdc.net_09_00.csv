@@ -1,0 +1,3 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 09:02:38.875772000 UTC","229","172.16.0.173","10.0.4.2","87-59-200-143-dynamic.dk.customer.tdc.net","Internet (IN)","A","NoError","49.46.53.53"
+"Jul  8 2016 09:03:33.392551000 UTC","231","172.16.0.176","10.0.4.39","87-59-200-143-dynamic.dk.customer.tdc.net","Internet (IN)","A","NoError","50.55.46.51"

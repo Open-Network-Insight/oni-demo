@@ -1,0 +1,7 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 04:04:11.385986000 UTC","269","172.16.0.186","10.0.4.16","www.hasthelargehadroncolliderdestroyedtheworldyet.com","Internet (IN)","A","NoError","49.52.46.57"
+"Jul  8 2016 04:51:25.717230000 UTC","271","172.16.0.186","10.0.3.188","www.hasthelargehadroncolliderdestroyedtheworldyet.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 04:12:48.392128000 UTC","267","172.16.0.166","10.0.4.10","www.hasthelargehadroncolliderdestroyedtheworldyet.com","Internet (IN)","A","NoError","53.46.49.51"
+"Jul  8 2016 04:38:10.303879000 UTC","271","172.16.0.196","10.0.3.137","www.hasthelargehadroncolliderdestroyedtheworldyet.com","Internet (IN)","A","NoError","50.51.46.49"
+"Jul  8 2016 04:47:38.690300000 UTC","267","172.16.0.174","10.0.3.170","www.hasthelargehadroncolliderdestroyedtheworldyet.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 04:09:12.811529000 UTC","263","172.16.0.195","10.0.3.209","www.hasthelargehadroncolliderdestroyedtheworldyet.com","Internet (IN)","A","NoError","49.46.53.53"

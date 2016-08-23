@@ -1,0 +1,7 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 07:26:23.894247000 UTC","236","172.16.0.172","10.0.3.181","www.this-page-intentionally-left-blank.org","Internet (IN)","A","NoError","50.52.46.50"
+"Jul  8 2016 07:55:28.559707000 UTC","236","172.16.0.197","10.0.3.230","www.this-page-intentionally-left-blank.org","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:11:10.373957000 UTC","230","172.16.0.172","10.0.3.181","www.this-page-intentionally-left-blank.org","Internet (IN)","A","NoError","49.46.51.57"
+"Jul  8 2016 08:00:08.560987000 UTC","236","172.16.0.165","10.0.3.174","www.this-page-intentionally-left-blank.org","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:06:22.663710000 UTC","236","172.16.0.178","10.0.4.28","www.this-page-intentionally-left-blank.org","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:17:43.919062000 UTC","234","172.16.0.189","10.0.3.186","www.this-page-intentionally-left-blank.org","Internet (IN)","A","NoError","50.46.49.56"

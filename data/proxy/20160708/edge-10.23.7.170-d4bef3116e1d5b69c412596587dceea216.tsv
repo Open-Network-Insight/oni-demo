@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	16:13:40	10.23.7.170	mr.corp.intel.com	Technology/Internet	Not Found	OPTIONS	DavClnt	-	-	80	10.7.210.157	847	136	mr.corp.intel.com

@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	20:50:02	10.255.71.125	www.enjazit.com.sa	Business/Economy	Service Unavailable	GET	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36	-	-	80	10.7.210.157	971	377	www.enjazit.com.sa

@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	07:11:11	10.254.75.186	hsn.mpl.miisolutions.net	Content Servers	Service Unavailable	POST	Shockwave Flash	-	http://www.hsn.com/arcade/lights-camera-subtraction/10	1935	10.7.210.157	962	471	hsn.mpl.miisolutions.net/send/1294067758/3

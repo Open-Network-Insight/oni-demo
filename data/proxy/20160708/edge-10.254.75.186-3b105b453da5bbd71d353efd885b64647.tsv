@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	07:13:40	10.254.75.186	hsn.mpl.miisolutions.net	Content Servers	OK	POST	Shockwave Flash	application/x-fcs	http://www.hsn.com/arcade/lights-camera-subtraction/10	1935	10.7.210.157	11355	438	hsn.mpl.miisolutions.net/idle/849030254/176

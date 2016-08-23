@@ -1,0 +1,8 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 03:32:39.154307000 UTC","228","172.16.0.182","10.0.3.186","www.california-colleges-universities.org","Internet (IN)","A","NoError","50.46.50.50"
+"Jul  8 2016 03:10:21.212985000 UTC","226","172.16.0.167","10.0.3.235","www.california-colleges-universities.org","Internet (IN)","A","NoError","49.46.51.57"
+"Jul  8 2016 03:23:21.853905000 UTC","226","172.16.0.185","10.0.3.244","www.california-colleges-universities.org","Internet (IN)","A","NoError","53.46.50.51"
+"Jul  8 2016 03:37:43.416997000 UTC","228","172.16.0.198","10.0.4.34","www.california-colleges-universities.org","Internet (IN)","A","NoError","53.46.49.54"
+"Jul  8 2016 03:39:30.326294000 UTC","230","172.16.0.202","10.0.3.180","www.california-colleges-universities.org","Internet (IN)","A","NoError","53.46.50.49"
+"Jul  8 2016 03:18:40.361011000 UTC","232","172.16.0.187","10.0.3.165","www.california-colleges-universities.org","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 03:59:12.546192000 UTC","226","172.16.0.200","10.0.3.139","www.california-colleges-universities.org","Internet (IN)","A","NoError","50.46.49.56"

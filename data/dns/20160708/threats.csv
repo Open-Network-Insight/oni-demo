@@ -1,0 +1,3 @@
+ip_dst|dns_qry_name|title|summary
+|greencompute.org|greencompute.org Suspicious Activity|DNS tunneling to China Telecom at greencompute.org is having an unusual number of domains like the one described. Additional validation is required to understand the information that is being sent to this ISP provider.
+|1447514297607.5wfqtqnh3owrvn2ayiinues29qc9pb.volluto.com|DNS Tunnel to volluto.com|Multiple queries to volluto.com using a DNS Tunneling technique from 172.16.0.0/24. This subnet is used by specific devices that should not be accessing this type of webpage, proxy filters should be reviewed.

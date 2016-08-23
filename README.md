@@ -1,8 +1,46 @@
-# **Open Network Insight Demo**
+# Open-Network-Insight.org
 
-ONI-Demo can be downloaded and run standalone on a **Windows Laptop** 
+For organizations with dynamic data centers and networks, Open Network Insight is an advanced threat detection solution that uses big data analytics, that perform at cloud scale, to provide actionable insights into operational and security threats. Running on Cloudera Enterprise Data Hub (EDH), ONI can analyze billions of events in order to detect unknown threats, insider threats, and gain a new level of visibility into the network.
+
+# **Open Network Insight Demo**
+ 
+ONI-Demo is a standalone installation of the ONI UI
+
+# **Running Demo on Docker**
+
+Install Docker for your platform
+Run the container: `docker run -it -p 8889:8889 opennetworkinsight/oni-demo`
+visit http://localhost:8889/files/ui/flow/suspicious.html#date=2016-07-08 in your browser to get started
+
+For the full instructions visit the [opennetworkinsight](https://hub.docker.com/r/opennetworkinsight/oni-demo/) on Docker hub
 
 ## **Demo SW Requirements**
+
+Pre-requisites:
+
+[Python 2.7.11](https://www.python.org/downloads/) or above
+[Node.js](https://nodejs.org/en/download/)
+
+installation:
+
+1. get the demo with `git clone https://github.com/Open-Network-Insight/oni-demo.git`
+2. install Python dependencies: `pip install pyzmq jinja2 pandas tornado ipython==3.2.0 jsonschema`
+3. install Node.js dependencies: `npm install -g browserify uglifyjs`
+4. install and build the ui 
+
+ `cd ./oni-demo/ui/`
+
+ `npm install reactify d3-queue d3-hierarchy`
+
+ `npm install`
+
+ `npm run build-all`
+
+## **Start the Demo**
+
+bash ./runIpython.sh
+
+## **Windows specific**
 
 This demo requires Winpython, which can be downloaded here:
 
@@ -16,33 +54,37 @@ Install Winpython under root directory as **C:\winpython**
 
 In order to download Demo code - you can use Download ZIP option from this repository
 
-![Alt][2]
-
-[2]: docs/download-zip.bmp "Download ZIP File"
-
-Unzip the file *oni-demo-win.zip* into **C:\winpython\notebooks** folder
+Unzip the file *oni-demo-1.1.zip* into **C:\winpython\notebooks** folder
 
 ## **Running Demo**
 
 In order to run ONI demo, start **Jupyter Notebook.exe** that is located under winpython folder
 
-A Web browser will be opened in the following path
+A Web browser will be opened to http://localhost:8888/tree
 
-![Alt][3]
 
-[3]: docs/JupyterStartup.bmp "Jupyter Initial Startup"
+# **Open Network Insight Demo**
+
+Inside the demo you will find 3 separate data sets to explore,
+
+* Flow
+* DNS
+* Proxy
+
+these events all occur on the same date: 2016-07-08
 
 ### *Opening Suspicious Connects Web Page*
 
 Copy and paste the following link into your browser
 
-    http://localhost:8888/files/oni-demo-win/index_sconnects.html
+### Flow
+[http://localhost:8889/files/ui/flow/suspicious.html#date=2016-07-08](http://localhost:8889/files/ui/proxy/suspicious.html#date=2016-07-08)
 
-Index_sconnects page looks similar to the image below
+### DNS
+[http://localhost:8889/files/ui/dns/suspicious.html#date=2016-07-08](http://localhost:8889/files/ui/dns/suspicious.html#date=2016-07-08)
 
-![Alt][4]
-
-[4]: docs/Index_sconnects.bmp "Index Sconnects Web Page"
+### Proxy
+[http://localhost:8889/files/ui/proxy/suspicious.html#date=2016-07-08](http://localhost:8889/files/ui/proxy/suspicious.html#date=2016-07-08)
 
 In the Demo, which contains similar functionality to Open Network Insight User Interface, you can:
 
@@ -51,24 +93,18 @@ In the Demo, which contains similar functionality to Open Network Insight User I
   * Move & Select Network View objects
     * Displaying Chord Diagrams
   * Display Detail View information (by selecting a Suspicious Connect row)
-  * Use IP Address Filter
   * Running Edge Investigation notebook
 
 ### *Opening Storyboard Web Page*
 
-Copy and paste the following link into your browser
+In this page you will find example Storyboards with real findings in the provided example data
+Copy and paste the following links into your browser
 
-    http://localhost:8888/files/oni-demo-win/storyboard_sconnect.html
+### Flow
+[http://localhost:8889/files/ui/flow/storyboard.html#date=2016-07-08](http://localhost:8889/files/ui/flow/storyboard.html#date=2016-07-08)
 
-Storyboard page looks similar to the image below
+### DNS
+[http://localhost:8889/files/ui/dns/storyboard.html#date=2016-07-08](http://localhost:8889/files/ui/dns/storyboard.html#date=2016-07-08)
 
-![Alt][5]
-
-[5]: docs/Storyboard_sconnect.bmp "Storyboard Web Page" 
-
-In this web page, you can:
-
-* Select in between 3 example events under *Executive Threat Briefing*
-  * Port 123 Scan
-  * Port 80 DoS
-  * Botnet 
+### Proxy
+[http://localhost:8889/files/ui/proxy/storyboard.html#date=2016-07-08](http://localhost:8889/files/ui/proxy/storyboard.html#date=2016-07-08)

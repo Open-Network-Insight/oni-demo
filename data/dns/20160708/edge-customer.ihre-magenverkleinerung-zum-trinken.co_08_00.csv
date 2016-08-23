@@ -1,0 +1,7 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 08:48:02.963783000 UTC","251","172.16.0.180","10.0.4.13","customer.ihre-magenverkleinerung-zum-trinken.co","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:37:43.821740000 UTC","251","172.16.0.176","10.0.3.171","customer.ihre-magenverkleinerung-zum-trinken.co","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:09:03.670329000 UTC","247","172.16.0.165","10.0.3.134","customer.ihre-magenverkleinerung-zum-trinken.co","Internet (IN)","A","NoError","49.52.46.57"
+"Jul  8 2016 08:36:05.547443000 UTC","251","172.16.0.181","10.0.3.142","customer.ihre-magenverkleinerung-zum-trinken.co","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 08:31:37.235960000 UTC","247","172.16.0.174","10.0.4.26","customer.ihre-magenverkleinerung-zum-trinken.co","Internet (IN)","A","NoError","53.46.53.52"
+"Jul  8 2016 08:07:43.838961000 UTC","251","172.16.0.184","10.0.4.43","customer.ihre-magenverkleinerung-zum-trinken.co","Internet (IN)","A","NoError","49.52.46.49"

@@ -1,0 +1,8 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 07:55:35.738259000 UTC","253","172.16.0.192","10.0.3.175","www.central-air-conditioner-and-refrigeration.com","Internet (IN)","A","NoError","50.55.46.50"
+"Jul  8 2016 07:11:16.638083000 UTC","255","172.16.0.201","10.0.3.212","www.central-air-conditioner-and-refrigeration.com","Internet (IN)","A","NoError","53.46.50.50"
+"Jul  8 2016 07:26:35.184911000 UTC","257","172.16.0.192","10.0.3.175","www.central-air-conditioner-and-refrigeration.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:12:48.007679000 UTC","257","172.16.0.178","10.0.3.184","www.central-air-conditioner-and-refrigeration.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:42:28.291804000 UTC","259","172.16.0.197","10.0.3.230","www.central-air-conditioner-and-refrigeration.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:01:16.104786000 UTC","257","172.16.0.189","10.0.3.166","www.central-air-conditioner-and-refrigeration.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:28:18.152484000 UTC","253","172.16.0.163","10.0.3.233","www.central-air-conditioner-and-refrigeration.com","Internet (IN)","A","NoError","49.46.51.57"

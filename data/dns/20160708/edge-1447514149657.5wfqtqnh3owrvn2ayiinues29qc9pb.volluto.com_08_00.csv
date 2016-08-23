@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 08:49:36.291676000 UTC","270","172.16.0.176","10.0.3.171","1447514149657.5wfqtqnh3owrvn2ayiinues29qc9pb.volluto.com","Internet (IN)","A","NoError","53.46.48.46"
+"Jul  8 2016 08:36:09.219858000 UTC","272","172.16.0.195","10.0.3.229","1447514149657.5wfqtqnh3owrvn2ayiinues29qc9pb.volluto.com","Internet (IN)","A","NoError","50.46.51.54"
+"Jul  8 2016 08:35:11.934570000 UTC","274","172.16.0.187","10.0.3.145","1447514149657.5wfqtqnh3owrvn2ayiinues29qc9pb.volluto.com","Internet (IN)","A","NoError","53.46.55.57"
+"Jul  8 2016 08:22:09.198409000 UTC","274","172.16.0.180","10.0.3.145","1447514149657.5wfqtqnh3owrvn2ayiinues29qc9pb.volluto.com","Internet (IN)","A","NoError","50.46.53.48"
+"Jul  8 2016 08:07:50.312147000 UTC","280","172.16.0.191","10.0.3.167","1447514149657.5wfqtqnh3owrvn2ayiinues29qc9pb.volluto.com","Internet (IN)","A","NoError","49.52.46.49"

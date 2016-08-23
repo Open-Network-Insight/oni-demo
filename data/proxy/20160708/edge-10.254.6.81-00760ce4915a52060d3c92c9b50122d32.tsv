@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	02:31:10	10.254.6.81	bg.v4.a.dl.ws.microsoft.com	Technology/Internet	Forbidden	HEAD	Microsoft BITS/7.7	text/html	-	80	10.7.210.157	239	364	bg.v4.a.dl.ws.microsoft.com/dl/content/c/updt/2015/02/c19f1d84-deb3-423e-ad56-91c54a3b1bd9_0d8315862b611d5c62a5d5e97b0c6c92a3e45a05.appxbundle?P1=1425174979&P2=1&P3=1&P4=NKcGpdGMzKMzpfC6Bu%2f4ICQGCO8%3d

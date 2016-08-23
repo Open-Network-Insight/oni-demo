@@ -1,0 +1,8 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 07:24:59.522221000 UTC","294","172.16.0.185","10.0.3.144","1234.hbrbdknti0ecaca3nymwkyly.1200195206.cmos.greencompute.org","Internet (IN)","A","NoError","50.46.49.55"
+"Jul  8 2016 07:08:11.336640000 UTC","298","172.16.0.171","10.0.3.137","1234.hbrbdknti0ecaca3nymwkyly.1200195206.cmos.greencompute.org","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:48:15.855325000 UTC","296","172.16.0.176","10.0.4.27","1234.hbrbdknti0ecaca3nymwkyly.1200195206.cmos.greencompute.org","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:15:13.485401000 UTC","296","172.16.0.191","10.0.3.207","1234.hbrbdknti0ecaca3nymwkyly.1200195206.cmos.greencompute.org","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:54:23.086137000 UTC","296","172.16.0.197","10.0.3.190","1234.hbrbdknti0ecaca3nymwkyly.1200195206.cmos.greencompute.org","Internet (IN)","A","NoError","53.46.49.54"
+"Jul  8 2016 07:57:31.250711000 UTC","292","172.16.0.171","10.0.3.137","1234.hbrbdknti0ecaca3nymwkyly.1200195206.cmos.greencompute.org","Internet (IN)","A","NoError","53.46.52.54"
+"Jul  8 2016 07:43:12.060481000 UTC","296","172.16.0.164","10.0.4.69","1234.hbrbdknti0ecaca3nymwkyly.1200195206.cmos.greencompute.org","Internet (IN)","A","NoError","50.55.46.49"

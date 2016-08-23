@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 06:45:18.011026000 UTC","262","172.16.0.172","10.0.4.37","www.life-saving-naturalcures-and-naturalremedies.com","Internet (IN)","A","NoError","53.46.50.46"
+"Jul  8 2016 06:30:56.267853000 UTC","264","172.16.0.201","10.0.3.152","www.life-saving-naturalcures-and-naturalremedies.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 06:56:13.587610000 UTC","266","172.16.0.168","10.0.4.23","www.life-saving-naturalcures-and-naturalremedies.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 06:41:40.847836000 UTC","268","172.16.0.180","10.0.4.53","www.life-saving-naturalcures-and-naturalremedies.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 06:59:49.554311000 UTC","268","172.16.0.167","10.0.3.155","www.life-saving-naturalcures-and-naturalremedies.com","Internet (IN)","A","NoError","49.52.46.49"

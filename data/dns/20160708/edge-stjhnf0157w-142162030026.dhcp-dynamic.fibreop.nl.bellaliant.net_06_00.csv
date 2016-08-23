@@ -1,0 +1,7 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 06:43:33.083096000 UTC","297","172.16.0.186","10.0.4.44","stjhnf0157w-142162030026.dhcp-dynamic.fibreop.nl.bellaliant.net","Internet (IN)","A","NoError","50.46.50.52"
+"Jul  8 2016 06:23:54.107754000 UTC","301","172.16.0.168","10.0.4.63","stjhnf0157w-142162030026.dhcp-dynamic.fibreop.nl.bellaliant.net","Internet (IN)","A","NoError","50.52.46.50"
+"Jul  8 2016 06:14:35.137181000 UTC","295","172.16.0.194","10.0.3.176","stjhnf0157w-142162030026.dhcp-dynamic.fibreop.nl.bellaliant.net","Internet (IN)","A","NoError","50.55.46.49"
+"Jul  8 2016 06:00:53.654970000 UTC","299","172.16.0.170","10.0.3.156","stjhnf0157w-142162030026.dhcp-dynamic.fibreop.nl.bellaliant.net","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 06:58:10.016949000 UTC","299","172.16.0.184","10.0.4.55","stjhnf0157w-142162030026.dhcp-dynamic.fibreop.nl.bellaliant.net","Internet (IN)","A","NoError","50.52.46.49"
+"Jul  8 2016 06:20:47.094776000 UTC","299","172.16.0.200","10.0.4.7","stjhnf0157w-142162030026.dhcp-dynamic.fibreop.nl.bellaliant.net","Internet (IN)","A","NoError","53.46.50.51"

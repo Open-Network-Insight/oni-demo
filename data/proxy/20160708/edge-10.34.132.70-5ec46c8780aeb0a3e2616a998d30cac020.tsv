@@ -1,0 +1,3 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	20:48:55	10.34.132.70	10.7.210.157	none	0	TUNNEL	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)	-	-	911	10.7.210.157	0	341	10.7.210.157
+2016-07-08	20:48:55	10.34.132.70	10.7.210.157	none	0	TUNNEL	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)	-	-	911	10.7.210.157	0	341	10.7.210.157

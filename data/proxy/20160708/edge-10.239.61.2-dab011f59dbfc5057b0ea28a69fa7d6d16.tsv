@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	16:11:17	10.239.61.2	ping.pinyin.sogou.com	Software Downloads;Office/Business Applications	Not Found	GET	-	text/html	-	80	10.7.210.157	229	552	ping.pinyin.sogou.com/gender.gif?prob0=0.500000&prob1=0.500000&ppversion=3.0.0.1855&passport=&h=637663528779C59C3645EE5B1F4DFA95&v=7.5.0.5276&r=0000_sogou_pinyin_74d.14168825021

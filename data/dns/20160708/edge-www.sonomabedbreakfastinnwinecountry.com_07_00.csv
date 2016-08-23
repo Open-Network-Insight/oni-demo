@@ -1,0 +1,6 @@
+"frame_time","frame_len","ip_dst","ip_src","dns_qry_name","dns_qry_class_name","dns_qry_type_name","dns_qry_rcode_name","dns_a"
+"Jul  8 2016 07:26:00.436799000 UTC","232","172.16.0.178","10.0.3.172","www.sonomabedbreakfastinnwinecountry.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:05:58.284532000 UTC","226","172.16.0.182","10.0.3.158","www.sonomabedbreakfastinnwinecountry.com","Internet (IN)","A","NoError","53.46.53.55"
+"Jul  8 2016 07:10:58.271919000 UTC","228","172.16.0.175","10.0.3.139","www.sonomabedbreakfastinnwinecountry.com","Internet (IN)","A","NoError","53.46.50.50"
+"Jul  8 2016 07:12:11.647883000 UTC","232","172.16.0.174","10.0.4.74","www.sonomabedbreakfastinnwinecountry.com","Internet (IN)","A","NoError","49.52.46.49"
+"Jul  8 2016 07:20:46.424116000 UTC","222","172.16.0.168","10.0.4.63","www.sonomabedbreakfastinnwinecountry.com","Internet (IN)","A","NoError","53.46.57.46"

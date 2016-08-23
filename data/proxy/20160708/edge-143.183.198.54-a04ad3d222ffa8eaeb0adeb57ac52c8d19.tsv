@@ -1,0 +1,2 @@
+p_date	p_time	clientip	host	webcat	respcode	reqmethod	useragent	resconttype	referer	uriport	serverip	scbytes	csbytes	fulluri
+2016-07-08	19:03:17	143.183.198.54	www.intel.com	Technology/Internet	OK	GET	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko	application/x-javascript	http://www.intel.com/content/www/us/en/homepage.html	80	10.7.210.157	319710	1802	www.intel.com/etc/designs/ver/5.3.141.2.27/intel/clientlibs/pages/commons-page.min.js
