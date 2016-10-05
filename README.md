@@ -78,7 +78,7 @@ these events all occur on the same date: 2016-07-08
 Copy and paste the following link into your browser
 
 ### Flow
-[http://localhost:8889/files/ui/flow/suspicious.html#date=2016-07-08](http://localhost:8889/files/ui/proxy/suspicious.html#date=2016-07-08)
+[http://localhost:8889/files/ui/flow/suspicious.html#date=2016-07-08](http://localhost:8889/files/ui/flow/suspicious.html#date=2016-07-08)
 
 ### DNS
 [http://localhost:8889/files/ui/dns/suspicious.html#date=2016-07-08](http://localhost:8889/files/ui/dns/suspicious.html#date=2016-07-08)
