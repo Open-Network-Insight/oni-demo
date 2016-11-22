@@ -16,9 +16,10 @@ For the full instructions visit the [opennetworkinsight](https://hub.docker.com/
 
 ## **Demo SW Requirements**
 
-Pre-requisites:
+Prerequisites:
 
 [Python 2.7.11](https://www.python.org/downloads/) or above
+
 [Node.js](https://nodejs.org/en/download/)
 
 installation:
