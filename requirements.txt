@@ -1,0 +1,6 @@
+pyzmq>=16.0.2
+jinja2>=2.9.5
+pandas>=0.19.2
+tornado>=4.4.2
+ipython==3.2.0
+jsonschema>=2.5.1
